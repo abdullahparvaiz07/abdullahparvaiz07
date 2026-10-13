@@ -1,4 +1,4 @@
-## Full Stack Deeveloper
+## Full Stack Developer
 
 <div align="center">
 
